@@ -18,11 +18,11 @@ editions:
 - short: G
 assets:
   parts:
-  - {seq: 0, filename: KR6k0269_000.yaml, hash: 'sha256:21831f006a2e7b7eec167c83512ff8d371ef4df29c6aa281b5ae422f78090683'}
-  - {seq: 1, filename: KR6k0269_001.yaml, hash: 'sha256:6fb2c3b9bc29666bc6d6274da58f1a7bf80f33c7f69b6c5aed13cbf60c0242c5'}
+  - {seq: 0, filename: KR6k0269_000.yaml, hash: 'sha256:22fb75652f4a5e4e7e6df09f6983563d9b8f816f40bee80dd7f3d76327c6b7fa'}
+  - {seq: 1, filename: KR6k0269_001.yaml, hash: 'sha256:125149b295067d6513c929c0250e7dffab66f17881fa78bde8c3ae3e6db3d9cb'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6k0269_000.markers.yaml, hash: 'sha256:3bb8ebda8bcb139ed83eb7f25047f90474bf8a69bc558c4a75dd24dc6a7f92c5'}
-  - {seq: 1, role: markers, filename: assets/KR6k0269_001.markers.yaml, hash: 'sha256:24128f80b8d1524568890781e80eebc9692536c57f7d4f68131f4f17171cb29e'}
+  - {seq: 0, role: markers, filename: assets/KR6k0269_000.markers.yaml, hash: 'sha256:51cd8e2b7781137e0d5a74d42466bf50de2dc054d5bf4900fb65b9fa0ad55c49'}
+  - {seq: 1, role: markers, filename: assets/KR6k0269_001.markers.yaml, hash: 'sha256:56696fdb75984c8ec03bcab1d0ae82755a543a3ba99f30a2c3aa290fc57273c7'}
 table_of_contents:
 - ref:
     seq: 0
@@ -54,7 +54,4 @@ table_of_contents:
   label: 四分律含註戒本略釋
   type: mulu
   level: 1
-hash: sha256:ecc4ded7980028c72abd92f57133c552250bc1897e2e3bafea6b0bbb3fe929b0
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:7639250d58ae80e251b1c09b4e1a7b860422aef5109c41cb0c60f0198781fbb5

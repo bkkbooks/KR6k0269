@@ -18,17 +18,17 @@ editions:
 - short: G
 assets:
   parts:
-  - {seq: 0, filename: KR6k0269_000.yaml, hash: 'sha256:22f261387a9c42809d8023528bcedf99054e0df9795667e5764fe748390447ed'}
+  - {seq: 0, filename: KR6k0269_000.yaml, hash: 'sha256:4058e2064412c4baea2247f5f1df7e48d8b0f64e6a55db70ed26005b9ab2783e'}
   - {seq: 1, filename: KR6k0269_001.yaml, hash: 'sha256:7098fd1bb29c419786ec47adb256e35c31e35672184f310b1095ad6bbf43a886'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6k0269_000.markers.yaml, hash: 'sha256:49e467f2e0106060fcef480cd79f4ae1e1991035b694cb44828249207f6f0a80'}
+  - {seq: 0, role: markers, filename: assets/KR6k0269_000.markers.yaml, hash: 'sha256:d7e7f1ba52e5301f06fb856d25d41035b9ff8c9be783d84062ccf2a03d0be0db'}
   - {seq: 1, role: markers, filename: assets/KR6k0269_001.markers.yaml, hash: 'sha256:deeb8d6732044e0b4dce6e77206fe897954e36018db07aca1ded71901dd1a8ac'}
 table_of_contents:
 - ref:
     seq: 0
     marker_id: KR6k0269_G_000-mulu-1
     span:
-    - front
+    - body
     - 0
     - 0
   label: 例言
@@ -54,7 +54,7 @@ table_of_contents:
   label: 四分律含註戒本略釋
   type: mulu
   level: 1
-hash: sha256:02e5dc322c8f85caad1ceb8437b58ade329929675d5bbaf7d568c58394249d1f
+hash: sha256:2dc09d4a822d2b1248469bead93435e2ff7a0b5e561544074aec3ae650c3be9f
 mappings:
 - canonical_identifier: bkk:mapping/variant-fold-v1
   hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
